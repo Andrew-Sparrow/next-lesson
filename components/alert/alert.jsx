@@ -12,4 +12,4 @@ export default function Alert({ children, type }) {
       {children}
     </div>
   );
-}
+};
