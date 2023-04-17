@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Head from "next/head";
 import Script from "next/script";
-import Layout from "../../components/ProfileImage/Layout/layout";
+import Layout from "../../components/layout/layout";
 
 
 const FirstPost = () => {
